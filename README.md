@@ -1,16 +1,15 @@
 # travel_apps
 
-A new Flutter project.
+Project ini hasil mengikuti dan menyelesaikan course BuildWith Angga.
+Mengikuti saran dan tips untuk ikut course, saya ga 100% ikutin code dari mentor, tapi mencoba ngerti goal 1 materi dan coba implementasi sendiri.
+Maka code yang dihasilkan tidak 100% sama dengan yang ada di dalam course, karena logicnya akan sedikit berbeda
 
-## Getting Started
+## learning
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- slicing 5++ pages dari figma dengan Flutter
+- mempelajari widget - widget umum dalam membangun aplikasi Flutter
+- state management dengan BLOC (Cubit)
+- connect dengan database Firestore
+- AUTH dengan firebase
+- upload ke play store
+- logic apps development
