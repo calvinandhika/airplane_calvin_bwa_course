@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "259497910756",
+    "project_id": "airplane-4c2d7",
+    "storage_bucket": "airplane-4c2d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259497910756:android:99732e4e6f5c8cda83e7f1",
+        "android_client_info": {
+          "package_name": "com.calvinandhika.travel_apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259497910756-ng3c9cf3b9en38n076uje6it3ipkt34l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKhdYMyHks3E6c_FLO9TdqgkFi74U-zGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259497910756-ng3c9cf3b9en38n076uje6it3ipkt34l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
