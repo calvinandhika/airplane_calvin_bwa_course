@@ -1,5 +1,7 @@
 # travel_apps
 
+https://play.google.com/store/apps/details?id=com.calvinandhika.airplane_calvin
+
 Project ini hasil mengikuti dan menyelesaikan course BuildWith Angga.
 Mengikuti saran dan tips untuk ikut course, saya ga 100% ikutin code dari mentor, tapi mencoba ngerti goal 1 materi dan coba implementasi sendiri.
 Maka code yang dihasilkan tidak 100% sama dengan yang ada di dalam course, karena logicnya akan sedikit berbeda
